@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/web/WEB-INF/users.jsp</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/servlets/UserServlet.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/dataaccess/DBUtil.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/services/UserService.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/dataaccess/UserDB.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/services/RoleService.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/models/Role.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/dataaccess/RoleDB.java</file>
+            <file>file:/C:/Users/jetig/Desktop/weblab7jhk/weblab7jhk/src/java/ca/sait/lab7v2/models/User.java</file>
+        </group>
+    </open-files>
+</project-private>
